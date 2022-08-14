@@ -1,0 +1,15 @@
+E:\.Net 6\EventAndDelegate\EventAndDelegate\bin\Debug\net6.0\EventAndDelegate.exe
+E:\.Net 6\EventAndDelegate\EventAndDelegate\bin\Debug\net6.0\EventAndDelegate.deps.json
+E:\.Net 6\EventAndDelegate\EventAndDelegate\bin\Debug\net6.0\EventAndDelegate.runtimeconfig.json
+E:\.Net 6\EventAndDelegate\EventAndDelegate\bin\Debug\net6.0\EventAndDelegate.dll
+E:\.Net 6\EventAndDelegate\EventAndDelegate\bin\Debug\net6.0\EventAndDelegate.pdb
+E:\.Net 6\EventAndDelegate\EventAndDelegate\obj\Debug\net6.0\EventAndDelegate.csproj.AssemblyReference.cache
+E:\.Net 6\EventAndDelegate\EventAndDelegate\obj\Debug\net6.0\EventAndDelegate.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net 6\EventAndDelegate\EventAndDelegate\obj\Debug\net6.0\EventAndDelegate.AssemblyInfoInputs.cache
+E:\.Net 6\EventAndDelegate\EventAndDelegate\obj\Debug\net6.0\EventAndDelegate.AssemblyInfo.cs
+E:\.Net 6\EventAndDelegate\EventAndDelegate\obj\Debug\net6.0\EventAndDelegate.csproj.CoreCompileInputs.cache
+E:\.Net 6\EventAndDelegate\EventAndDelegate\obj\Debug\net6.0\EventAndDelegate.dll
+E:\.Net 6\EventAndDelegate\EventAndDelegate\obj\Debug\net6.0\refint\EventAndDelegate.dll
+E:\.Net 6\EventAndDelegate\EventAndDelegate\obj\Debug\net6.0\EventAndDelegate.pdb
+E:\.Net 6\EventAndDelegate\EventAndDelegate\obj\Debug\net6.0\EventAndDelegate.genruntimeconfig.cache
+E:\.Net 6\EventAndDelegate\EventAndDelegate\obj\Debug\net6.0\ref\EventAndDelegate.dll
